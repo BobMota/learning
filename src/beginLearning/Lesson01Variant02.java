@@ -14,7 +14,7 @@ public class Lesson01Variant02 {
 					word = "elefante"; //palavra no singular
 					
 				}
-				
+				//comentário aleatório
 				System.out.println(eleNum + " "+word + " " +  "incomoda muita gente");
 
 				eleNum = eleNum+1;
