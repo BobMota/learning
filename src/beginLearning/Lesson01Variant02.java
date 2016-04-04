@@ -22,13 +22,8 @@ public class Lesson01Variant02 {
 				if(eleNum > 1){
 					
 					System.out.println(eleNum + " "+word + " " + "incomodam muito mais.");
-				}else {
-					
-					System.out.println("não tem mais elefantes.");
-					
-				}//fim do else
 					
 			}//fim do if 
 		}//fim do loop while
-	}
-
+	}//fim do main
+}//fim da classe
